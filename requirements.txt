@@ -7,4 +7,5 @@ catboost==1.2.5
 xgboost==1.7.6
 dill
 Flask
+gunicorn
 # -e .
